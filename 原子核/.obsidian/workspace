@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "d7cd751bd75258df",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ade51e54a01b56",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f9a31982847d556",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "35edae418d066472",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "abb9917bef967024",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "56865f6aa200e2da",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5fc3440d1f4bfd68",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a4b41abe7825673e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "6175762eed857719",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d7d497d5af702b46",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "29ade51e54a01b56",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-06-11 10.22.08.excalidraw.md",
+    "introduction.md",
+    "Identify.md",
+    "Excalidraw/Drawing 2022-05-25 11.02.32.excalidraw.md",
+    "Untitled.md"
+  ]
+}

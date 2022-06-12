@@ -1,0 +1,10 @@
+Opening:
+Protected areas are traditionally methods to protect the endangered animals. Researchers assume that protect areas are important for conserving ecological quality. During past decades, over 12,000 protected areas were established. These protected areas have reached 13.2 million km2, which occupy the 8.8% of Earth's land surface. Recents years human activities threaren protected areas.These activites cause decrease of protected area. However, the ecologicl quality changing in protected area is still not well understood.
+
+Funnel:
+Wolong Nature Reserve was established in 1975, which is the largestprotected area of giant panda conservation. Wolong is in Sichuan Province ,southwestern China. Wolong Nature Reserve contains 10% of the wild panda population(Marshall,2015.).Although reseachers have measured ecological quality in Wolong Nature Reserve, few studies compared ecological quality before and after it was established. 
+
+Ecological quality can be defined as suitability for panda habitat(Schaller,1994). The suitability of habitat for pandas has been wild analyzed(Schaller,1994;Van Schaik and Johnson,1997;)And the ecological quality of panda habitat in terms of amount of panda habitat，number of habitat patches and mean patch size have been examined ( Schaller,1994;Van Schaik and Johnson,1997;Liu et al.,1999 ).And the previous research has used remotely sensed data to quantify changes in forest cover(Lilles and Kiefer,1990).  Despite measurement in previous work, remote sensing data can be used to measure habitat area, mean patch size etc.. However, few studies use remote sensing data to compare ecological quality before and after the Wolong Nature Reserve was established. 
+
+Aim:
+To investigate whether ecological quality of the Wolong Nature Reserve improved after it was established, we use remote sensing data from 1975-2018, and measure total habitat area, mean patch size, patch number in Wolong Nature Reserve.

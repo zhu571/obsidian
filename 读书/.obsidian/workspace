@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "7d9a35873ae1ba17",
+    "type": "split",
+    "children": [
+      {
+        "id": "257dd81c7ca63a51",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "国富论.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2ee86f9bb38a6ed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "401003a41e2a4177",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3d8a0838f923c3dc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d0333dc473e837ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "584fda61ba5eea8c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "国富论.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "257dd81c7ca63a51",
+  "lastOpenFiles": [
+    "国富论.md"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "mobilePullAction": "editor:insert-wikilink"
+}
