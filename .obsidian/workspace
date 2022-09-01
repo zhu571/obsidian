@@ -14,6 +14,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "a23df91409719f0d",
+        "type": "leaf",
+        "state": {
+          "type": "calibre-view",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -113,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c82510750372c369",
+  "active": "a23df91409719f0d",
   "lastOpenFiles": [
     "笔记/同位旋混杂.md",
     "读书/国富论.md",
